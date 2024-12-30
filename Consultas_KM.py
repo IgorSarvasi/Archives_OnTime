@@ -20,7 +20,7 @@ def obter_cidades_por_estado(sigla_estado):
 
 # Configurar o estado
 sigla_estado = "SP" #Sigla do Estado
-capital = "Palmas" #Capital do Estado
+capital = "São Paulo" #Capital do Estado
 
 # Obter as cidades do estado
 cidades = obter_cidades_por_estado(sigla_estado)
